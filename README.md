@@ -5,7 +5,7 @@ This repository analyzes the Travelling Salesman Problem and the following algor
 - Brute Force
 - Branch-and-Bound
 - Twice-Around-the-Tree
-- Christofides'.
+- Christofides'
 
 This repository contains:
 
