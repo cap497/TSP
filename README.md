@@ -9,9 +9,10 @@ This repository analyzes the Travelling Salesman Problem and the following algor
 
 This repository contains:
 
-- Python notebook: TSP
+- TSP Python notebook
 - Data samples: small, medium, large, huge
 - Results: CSV and metrics graphs
+- PDF Scientific paper
 
 Small, medium and large data contains randomly generated instances.
 
