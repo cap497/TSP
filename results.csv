@@ -1,0 +1,235 @@
+Nodes,Algorithm,Cost,Time (s),Memory (MB)
+5,Twice-Around-the-Tree,323.38,0.0,0.01
+5,Christofides,316.16,0.0,0.03
+5,Branch and Bound,316.16,0.0,0.0
+5,Brute Force,316.16,0.01,0.05
+5,Twice-Around-the-Tree,382.44,0.0,0.01
+5,Christofides,328.63,0.0,0.02
+5,Branch and Bound,328.63,0.0,0.0
+5,Brute Force,328.63,0.0,0.04
+5,Twice-Around-the-Tree,322.48,0.0,0.01
+5,Christofides,318.0,0.0,0.02
+5,Branch and Bound,318.0,0.0,0.0
+5,Brute Force,318.0,0.0,0.04
+6,Twice-Around-the-Tree,394.24,0.0,0.01
+6,Christofides,329.99,0.0,0.03
+6,Branch and Bound,329.99,0.0,0.0
+6,Brute Force,329.99,0.02,0.04
+6,Twice-Around-the-Tree,445.76,0.0,0.01
+6,Christofides,351.02,0.0,0.02
+6,Branch and Bound,351.02,0.0,0.0
+6,Brute Force,351.02,0.01,0.04
+6,Twice-Around-the-Tree,348.46,0.0,0.01
+6,Christofides,312.69,0.0,0.03
+6,Branch and Bound,312.69,0.0,0.0
+6,Brute Force,312.69,0.01,0.04
+7,Twice-Around-the-Tree,336.76,0.0,0.02
+7,Christofides,303.57,0.0,0.03
+7,Branch and Bound,302.98,0.0,0.01
+7,Brute Force,302.98,0.08,0.04
+7,Twice-Around-the-Tree,372.63,0.0,0.02
+7,Christofides,380.44,0.01,0.03
+7,Branch and Bound,336.96,0.01,0.01
+7,Brute Force,336.96,0.09,0.07
+7,Twice-Around-the-Tree,343.39,0.0,0.02
+7,Christofides,343.39,0.0,0.03
+7,Branch and Bound,343.39,0.01,0.01
+7,Brute Force,343.39,0.09,0.04
+8,Twice-Around-the-Tree,353.37,0.0,0.02
+8,Christofides,321.44,0.0,0.03
+8,Branch and Bound,322.83,0.04,0.01
+8,Brute Force,321.44,1.33,0.07
+8,Twice-Around-the-Tree,429.48,0.0,0.02
+8,Christofides,367.09,0.01,0.04
+8,Branch and Bound,347.22,0.02,0.01
+8,Brute Force,347.22,1.02,0.06
+8,Twice-Around-the-Tree,476.5,0.0,0.02
+8,Christofides,410.96,0.0,0.04
+8,Branch and Bound,386.74,0.01,0.01
+8,Brute Force,386.74,0.81,0.06
+9,Twice-Around-the-Tree,438.94,0.0,0.03
+9,Christofides,393.09,0.01,0.04
+9,Branch and Bound,386.62,0.12,0.01
+9,Brute Force,386.62,8.56,0.07
+9,Twice-Around-the-Tree,365.6,0.0,0.02
+9,Christofides,366.27,0.01,0.04
+9,Branch and Bound,341.57,0.08,0.01
+9,Brute Force,341.57,7.62,0.06
+9,Twice-Around-the-Tree,440.95,0.0,0.02
+9,Christofides,449.39,0.01,0.04
+9,Branch and Bound,394.79,0.07,0.01
+9,Brute Force,394.79,9.0,0.06
+10,Twice-Around-the-Tree,455.69,0.0,0.03
+10,Christofides,377.13,0.0,0.05
+10,Branch and Bound,364.32,0.09,0.01
+10,Brute Force,364.32,93.71,0.1
+10,Twice-Around-the-Tree,356.62,0.0,0.03
+10,Christofides,335.57,0.0,0.04
+10,Branch and Bound,330.25,0.16,0.01
+10,Brute Force,330.25,92.68,0.12
+10,Twice-Around-the-Tree,395.04,0.0,0.02
+10,Christofides,337.43,0.01,0.04
+10,Branch and Bound,337.43,0.12,0.01
+10,Brute Force,337.43,94.7,0.09
+12,Twice-Around-the-Tree,405.48,0.01,0.04
+12,Christofides,385.79,0.01,0.05
+12,Branch and Bound,385.79,1.71,0.07
+12,Twice-Around-the-Tree,508.87,0.0,0.04
+12,Christofides,460.25,0.01,0.06
+12,Branch and Bound,399.93,0.95,0.07
+12,Twice-Around-the-Tree,418.51,0.0,0.04
+12,Christofides,384.29,0.01,0.05
+12,Branch and Bound,350.28,5.05,0.08
+14,Twice-Around-the-Tree,458.58,0.0,0.05
+14,Christofides,391.72,0.01,0.08
+14,Branch and Bound,351.73,6.97,0.08
+14,Twice-Around-the-Tree,526.05,0.01,0.04
+14,Christofides,458.21,0.01,0.07
+14,Branch and Bound,413.39,16.31,0.08
+14,Twice-Around-the-Tree,463.23,0.0,0.04
+14,Christofides,436.27,0.01,0.07
+14,Branch and Bound,399.93,2.04,0.08
+16,Twice-Around-the-Tree,433.94,0.0,0.06
+16,Christofides,369.28,0.01,0.08
+16,Branch and Bound,345.93,65.3,0.1
+16,Twice-Around-the-Tree,490.1,0.0,0.05
+16,Christofides,441.03,0.01,0.1
+16,Branch and Bound,396.62,95.11,0.11
+16,Twice-Around-the-Tree,533.88,0.01,0.06
+16,Christofides,467.58,0.02,0.09
+16,Branch and Bound,423.99,254.29,0.15
+18,Twice-Around-the-Tree,465.62,0.01,0.07
+18,Christofides,376.64,0.01,0.1
+18,Branch and Bound,362.48,156.31,0.12
+18,Twice-Around-the-Tree,566.93,0.01,0.06
+18,Christofides,450.53,0.01,0.11
+18,Branch and Bound,418.15,123.28,0.14
+18,Twice-Around-the-Tree,460.59,0.01,0.06
+18,Christofides,398.97,0.01,0.1
+18,Branch and Bound,396.03,594.84,1.48
+20,Twice-Around-the-Tree,568.43,0.01,0.08
+20,Christofides,451.31,0.02,0.1
+20,Branch and Bound,,,
+20,Twice-Around-the-Tree,561.04,0.21,0.1
+20,Christofides,475.48,0.01,0.12
+20,Branch and Bound,434.8,410.11,0.2
+20,Twice-Around-the-Tree,467.19,0.01,0.08
+20,Christofides,434.46,0.01,0.11
+20,Branch and Bound,429.1,365.04,0.19
+22,Twice-Around-the-Tree,550.83,0.01,0.09
+22,Christofides,482.09,0.02,0.14
+22,Branch and Bound,,,
+22,Twice-Around-the-Tree,510.87,0.01,0.09
+22,Christofides,481.05,0.01,0.11
+22,Branch and Bound,,,
+22,Twice-Around-the-Tree,516.82,0.01,0.09
+22,Christofides,506.43,0.01,0.13
+22,Branch and Bound,,,
+24,Twice-Around-the-Tree,502.05,0.02,0.14
+24,Christofides,472.03,0.02,0.17
+24,Branch and Bound,,,
+24,Twice-Around-the-Tree,567.79,0.01,0.12
+24,Christofides,468.52,0.02,0.17
+24,Branch and Bound,,,
+24,Twice-Around-the-Tree,491.85,0.02,0.12
+24,Christofides,445.71,0.04,0.17
+24,Branch and Bound,,,
+26,Twice-Around-the-Tree,668.99,0.02,0.14
+26,Christofides,519.99,0.02,0.2
+26,Branch and Bound,,,
+26,Twice-Around-the-Tree,513.19,0.01,0.13
+26,Christofides,430.93,0.02,0.16
+26,Branch and Bound,,,
+26,Twice-Around-the-Tree,587.3,0.02,0.15
+26,Christofides,526.28,0.04,0.18
+26,Branch and Bound,,,
+28,Twice-Around-the-Tree,597.7,0.01,0.15
+28,Christofides,560.2,0.03,0.2
+28,Branch and Bound,,,
+28,Twice-Around-the-Tree,624.27,0.02,0.15
+28,Christofides,536.33,0.03,0.19
+28,Branch and Bound,,,
+28,Twice-Around-the-Tree,588.49,0.02,0.15
+28,Christofides,535.36,0.03,0.2
+28,Branch and Bound,,,
+30,Twice-Around-the-Tree,597.82,0.03,0.2
+30,Christofides,547.88,0.04,0.2
+30,Branch and Bound,,,
+30,Twice-Around-the-Tree,657.28,0.02,0.17
+30,Christofides,569.34,0.04,0.24
+30,Branch and Bound,,,
+30,Twice-Around-the-Tree,700.6,0.02,0.17
+30,Christofides,575.16,0.04,0.23
+30,Branch and Bound,,,
+30,Twice-Around-the-Tree,634.64,0.01,0.2
+30,Christofides,495.58,0.04,0.25
+30,Twice-Around-the-Tree,687.69,0.02,0.17
+30,Christofides,535.57,0.03,0.2
+30,Twice-Around-the-Tree,587.85,0.02,0.17
+30,Christofides,530.49,0.03,0.24
+40,Twice-Around-the-Tree,731.46,0.03,0.3
+40,Christofides,594.69,0.05,0.37
+40,Twice-Around-the-Tree,767.72,0.03,0.28
+40,Christofides,657.47,0.06,0.41
+40,Twice-Around-the-Tree,579.79,0.03,0.27
+40,Christofides,571.3,0.04,0.33
+50,Twice-Around-the-Tree,722.15,0.04,0.55
+50,Christofides,635.03,0.07,0.58
+50,Twice-Around-the-Tree,758.96,0.06,0.47
+50,Christofides,689.5,0.1,0.61
+50,Twice-Around-the-Tree,753.89,0.06,0.47
+50,Christofides,619.43,0.14,0.53
+60,Twice-Around-the-Tree,871.55,0.05,0.68
+60,Christofides,725.49,0.13,0.83
+60,Twice-Around-the-Tree,852.0,0.07,0.77
+60,Christofides,724.45,0.2,0.97
+60,Twice-Around-the-Tree,824.15,0.05,0.64
+60,Christofides,668.09,0.1,0.8
+70,Twice-Around-the-Tree,840.36,0.08,0.87
+70,Christofides,753.09,0.31,1.2
+70,Twice-Around-the-Tree,876.11,0.1,0.87
+70,Christofides,731.65,0.21,1.05
+70,Twice-Around-the-Tree,901.64,0.12,1.01
+70,Christofides,779.06,0.27,1.06
+80,Twice-Around-the-Tree,913.01,0.14,1.15
+80,Christofides,765.69,0.21,1.38
+80,Twice-Around-the-Tree,860.02,0.11,1.15
+80,Christofides,832.75,0.22,1.39
+80,Twice-Around-the-Tree,953.52,0.12,1.29
+80,Christofides,827.75,0.34,1.37
+90,Twice-Around-the-Tree,976.98,0.16,1.68
+90,Christofides,840.74,0.35,1.87
+90,Twice-Around-the-Tree,904.47,0.11,1.68
+90,Christofides,777.98,0.21,1.91
+90,Twice-Around-the-Tree,1053.63,0.13,1.68
+90,Christofides,828.92,0.3,1.88
+100,Twice-Around-the-Tree,1047.97,0.15,2.05
+100,Christofides,913.53,0.51,2.41
+100,Twice-Around-the-Tree,1068.39,0.19,2.19
+100,Christofides,876.97,0.31,2.11
+100,Twice-Around-the-Tree,959.75,0.16,2.08
+100,Christofides,855.59,0.4,2.19
+76,Twice-Around-the-Tree,915.87,0.11,1.17
+76,Christofides,765.1,0.21,1.24
+107,Twice-Around-the-Tree,783.22,0.27,2.36
+107,Christofides,627.68,0.57,2.56
+124,Twice-Around-the-Tree,799.89,0.35,3.23
+124,Christofides,698.68,0.35,3.09
+136,Twice-Around-the-Tree,1322.6,0.25,3.67
+136,Christofides,992.0,0.89,3.74
+144,Twice-Around-the-Tree,764.12,0.32,4.09
+144,Christofides,739.75,0.37,4.09
+152,Twice-Around-the-Tree,718.54,0.5,4.69
+152,Christofides,686.96,0.35,4.55
+226,Twice-Around-the-Tree,820.75,1.13,10.66
+226,Christofides,735.57,1.85,10.66
+264,Twice-Around-the-Tree,959.46,1.43,14.44
+264,Christofides,785.42,2.48,14.3
+299,Twice-Around-the-Tree,1593.81,1.53,18.28
+299,Christofides,1334.81,5.54,18.26
+439,Twice-Around-the-Tree,1362.67,4.09,42.52
+439,Christofides,1106.31,12.53,42.68
+1002,Twice-Around-the-Tree,2732.73,18.28,220.48
+1002,Christofides,2314.33,190.3,220.48
+2392,Twice-Around-the-Tree,4471.05,110.72,1227.61
+2392,Christofides,,,
