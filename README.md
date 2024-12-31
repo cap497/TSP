@@ -12,7 +12,7 @@ This repository contains:
 - TSP Python notebook
 - Data samples: small, medium, large, huge
 - Results: CSV and metrics graphs
-- PDF Scientific paper
+- PDF paper
 
 Small, medium and large data contains randomly generated instances.
 
