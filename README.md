@@ -16,9 +16,9 @@ This repository contains:
 
 Small, medium and large data contains randomly generated instances.
 
-TSPLIB 95 is a library that contains multiple samples of various TSP related problems.
-
 Huge data contains TSPLIB 95 instances with a wide range of number of nodes.
+
+TSPLIB 95 is a library that contains multiple samples of various TSP related problems.
 
 Only instances using 2D Euclidian coordinates were chosen.
 
