@@ -14,11 +14,11 @@ This repository contains:
 - Results Metrics CSV
 - PDF Paper
 
-Small, medium and large data contains randomly generated instances and huge contains TSPLIB 95 ones.
+Small, medium and large data contains randomly generated instances.
 
 TSPLIB 95 is a library that contains multiple samples of various TSP related problems.
 
-Huge conatins instances with a wide range of number of nodes.
+Huge data contains TSPLIB 95 instances with a wide range of number of nodes.
 
 Only instances using 2D Euclidian coordinates were chosen.
 
