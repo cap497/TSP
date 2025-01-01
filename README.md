@@ -20,4 +20,6 @@ TSPLIB 95 is a library that contains multiple samples of various TSP related pro
 
 This is only a concise selection of TSP instances using 2D Euclidian coordinates chosen to evaluate algorihms with an increasing number of nodes.
 
+Approximate algorithms are compared to TSPLIB 95 bounds.
+
 Notebook can be used to generate random instances and/or test other TSPLIB instances.
