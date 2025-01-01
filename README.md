@@ -18,7 +18,9 @@ Small, medium and large data contains randomly generated instances and huge cont
 
 TSPLIB 95 is a library that contains multiple samples of various TSP related problems.
 
-This is only a concise selection of TSP instances using 2D Euclidian coordinates chosen to evaluate algorihms with an increasing number of nodes.
+Huge conatins instances with a wide range of number of nodes.
+
+Only instances using 2D Euclidian coordinates were chosen.
 
 Approximate algorithms are compared to TSPLIB 95 bounds.
 
